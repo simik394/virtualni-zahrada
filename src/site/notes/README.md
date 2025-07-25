@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"],"created":"2025-07-25T02:06:54.124+02:00","updated":"2025-07-25T02:26:03.179+02:00"}
 ---
 
 # Digital Obsidian Garden
